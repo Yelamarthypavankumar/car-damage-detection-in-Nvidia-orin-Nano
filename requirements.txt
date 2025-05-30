@@ -1,0 +1,10 @@
+streamlit==1.44.1
+tensorrt==10.3.0
+tensorrt_dispatch==10.3.0
+tensorrt_lean==10.3.0
+pycuda==2024.1
+opencv-python==4.11.0.86
+numpy==1.26.4
+Pillow==11.2.1
+loguru==0.7.3
+
