@@ -7,4 +7,9 @@ opencv-python==4.11.0.86
 numpy==1.26.4
 Pillow==11.2.1
 loguru==0.7.3
-
+torch
+torchvision
+psutil
+pycocotools
+tqdm
+tabulate
