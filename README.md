@@ -32,33 +32,19 @@ All processing is optimized for edge deployment using **TensorRT** on **Jetson O
 
 🔧 Setup & Inference
 Follow these steps to run the app:
-
 1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/car-damage-detection.git
-cd car-damage-detection
+   git clone https://github.com/Yelamarthypavankumar/car-damage-detection-in-Nvidia-orin-Nano.git
+   cd car-damage-detection-in-Nvidia-orin-Nano
 2. Create a Virtual Environment with Python 3.10
-bash
-Copy
-Edit
-conda create -n car_damage python=3.10
+   conda create -n car_damage python=3.10
 3. Activate the Environment
-bash
-Copy
-Edit
-conda activate car_damage
+   conda activate car_damage
 4. Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
+   pip install -r requirements.txt
 5. Run the Streamlit App
-bash
-Copy
-Edit
-streamlit run detect_app.py
+   streamlit run detect_app.py
+
+
 
 
 Below screenshot is the streamlit GUI:
