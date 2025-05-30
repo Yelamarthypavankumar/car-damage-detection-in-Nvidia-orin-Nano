@@ -15,3 +15,6 @@ To run the inference follow the below steps:
 
 Below screenshot is the streamlit GUI:
 ![image](https://github.com/user-attachments/assets/d5b69b64-d653-44a0-bf10-f0cdbcddc510)
+
+
+References:https://github.com/Megvii-BaseDetection/YOLOX
