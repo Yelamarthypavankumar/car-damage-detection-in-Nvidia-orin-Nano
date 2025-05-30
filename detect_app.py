@@ -104,9 +104,7 @@ if 'media_type' not in st.session_state:
     st.session_state.media_type = 'Image'
 
 col_logo, col_media_type = st.columns([1, 3])
-#with col_logo:
-#    logo = Image.open(LOGO_PATH)
-#    st.image(logo, width=150)
+
 
 with col_media_type:
     st.title("Car Damage Detection ")
